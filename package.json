@@ -1,7 +1,7 @@
 {
   "name": "ampersand-react-connector",
   "description": "A Higher Order Components pattern for connecting ampersand models with React components",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Henrik Joreteg <henrik@joreteg.com>",
   "bugs": {
     "url": "https://github.com/ampersandjs/ampersand-react-connector/issues"
